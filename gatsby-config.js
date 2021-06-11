@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Dead Elf Collectibles LLC.`,
+    description: `Dead Elf Collectibles is here to supply all your TCG needs`,
+    author: `@TheReal_deadelf`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

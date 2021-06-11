@@ -81,6 +81,7 @@ h1 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
+  text-align: center;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: bold;
@@ -576,6 +577,13 @@ code {
 pre code {
   background: none;
   line-height: 1.42;
+}
+dd, dl, p, pre {
+  margin: 0 0 1.45rem;
+  text-align: center;
+}
+.gatsby-image-wrapper img {
+  padding-left: 80px;
 }
 code:before,
 code:after,
